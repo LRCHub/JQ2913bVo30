@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "クリームで会いにいけますか (Live)",
+  "base_artist": "ずっと真夜中でいいのに。",
+  "createdAt": "2025-12-13T19:15:03.481802Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "クリームで会いにいけますか",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_01_クリームで会いにいけますか_ずっと真夜中でいいのに。.txt"
+    }
+  ]
+}
